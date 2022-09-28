@@ -32,19 +32,27 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
 <p>So this list changes frequently.</p>
 
 - Code
+  - Core
+    - git flow
   - Frontend **Middle**
     - TypeScript
     - React
     - Next
+    - MobX
     - Redux
     - MUI
   - Smart Contract **Junior**
     - Solidity 
     - hardhat
-    - chai 
-  - Economy
-    - [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
-    - Game theory
+    - chai
+- Research
+  - Mathematical model
+  - MacroEconomics
+- DevOps
+  - Terraform
+- Economy
+  - [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
+  - Game theory
 ## 💞️ I’m looking to collaborate on ...
    - Crypto Project
      - DeFi projects, focused on creating fundamentally new markets
