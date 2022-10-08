@@ -1,0 +1,146 @@
+{
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.largeFileOptimizations": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "tabnine.experimentalAutoImports": true,
+    "editor.inlineSuggest.enabled": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "hardhat.telemetry": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true,
+        "scss": false
+    },
+    "solidity.defaultCompiler": "localNodeModule",
+    "solidity.linter": "solium",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "mocha.files.glob": "test*.ts",
+    "mocha.parallelTests": 500,
+    "mochaExplorer.configFile": "",
+    "mochaExplorer.jobs": 500,
+    "mochaExplorer.watch": "test*.ts",
+    "mochaExplorer.files": "test*.ts",
+    "notebook.cellFocusIndicator": "border",
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "maptz.regionfolder": {
+        "[solidity]": {        
+            "defaultFoldStartRegex": "\\<!--[\\s]*#region\\(collapsed\\)[\\s]*(.*)",
+
+            "foldEnd": "/* <!-- #endregion --> */",
+            "foldEndRegex": "\\<!--[\\s]*#endregion",
+            "foldStart": "/* <!-- #region [NAME] --> */",
+            "foldStartRegex": "\\<!--[\\s]*#region[\\s]*(.*)"
+        }
+    },
+    "githubPullRequests.pullBranch": "never",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.stickyScroll.enabled": true,
+    "svg.preview.mode": "svg",
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "GitHub Dark High Contrast",
+    "terminal.integrated.fontFamily": "meslolgm nf",
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "background.loop": true,
+    "background.useDefault": false,
+    "background.customImages": [
+        "C:\\Users\\eureq\\Desktop\\Фото\\1",
+        "C:\\Users\\eureq\\Desktop\\Фото\\2",
+        "C:\\Users\\eureq\\Desktop\\Фото\\3",
+        "C:\\Users\\eureq\\Desktop\\Фото\\4",
+        "C:\\Users\\eureq\\Desktop\\Фото\\5",
+        "C:\\Users\\eureq\\Desktop\\Фото\\6",
+        "C:\\Users\\eureq\\Desktop\\Фото\\7",
+        "C:\\Users\\eureq\\Desktop\\Фото\\8",
+        "C:\\Users\\eureq\\Desktop\\Фото\\9",
+        "C:\\Users\\eureq\\Desktop\\Фото\\10",
+        "C:\\Users\\eureq\\Desktop\\Фото\\11",
+        "C:\\Users\\eureq\\Desktop\\Фото\\12",
+        "C:\\Users\\eureq\\Desktop\\Фото\\13",
+        "C:\\Users\\eureq\\Desktop\\Фото\\14",
+        "C:\\Users\\eureq\\Desktop\\Фото\\15",
+        "C:\\Users\\eureq\\Desktop\\Фото\\16",
+        "C:\\Users\\eureq\\Desktop\\Фото\\17",
+        "C:\\Users\\eureq\\Desktop\\Фото\\18",
+        "C:\\Users\\eureq\\Desktop\\Фото\\19",
+        "C:\\Users\\eureq\\Desktop\\Фото\\20",
+        "C:\\Users\\eureq\\Desktop\\Фото\\21",
+        "C:\\Users\\eureq\\Desktop\\Фото\\22",
+        "C:\\Users\\eureq\\Desktop\\Фото\\23",
+        "C:\\Users\\eureq\\Desktop\\Фото\\24",
+        "C:\\Users\\eureq\\Desktop\\Фото\\25",
+        "C:\\Users\\eureq\\Desktop\\Фото\\26",
+        "C:\\Users\\eureq\\Desktop\\Фото\\27",
+        "C:\\Users\\eureq\\Desktop\\Фото\\28",
+        "C:\\Users\\eureq\\Desktop\\Фото\\29",
+        "C:\\Users\\eureq\\Desktop\\Фото\\30",
+        "C:\\Users\\eureq\\Desktop\\Фото\\31",
+        "C:\\Users\\eureq\\Desktop\\Фото\\32",
+        "C:\\Users\\eureq\\Desktop\\Фото\\33"
+    ],
+    "wallpaper-setting.filePath": "C:\\Users\\eureq\\Desktop\\Фото",
+    "background.backgroundImageSize": "Auto",
+    "workbench.startupEditor": "none",
+    "markdown.preview.breaks": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "background.backgroundImageRepeat": "Repeat Y",
+    "gitlens.defaultDateLocale": null,
+    "gitlens.defaultDateFormat": null,
+    "gitlens.defaultDateShortFormat": null,
+    "gitlens.defaultTimeFormat": null,
+    "gitlens.hovers.currentLine.over": "line",
+    "remote.SSH.remotePlatform": {
+        "RND1": "linux",
+        "RND2": "linux",
+        "RND3": "linux"
+    },
+    "sshfs.configs": [
+        {
+            "name": "azure",
+            "host": "20.185.248.110",
+            "username": "RND332",
+            "privateKeyPath": "c:\\Users\\eureq\\.ssh\\azure_RND1_rsa",
+            "passphrase": "StivenKing1707!"
+        }
+    ],
+    "workbench.editorAssociations": {
+        "*.tfplan": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "background.windowBackgrounds": [
+        "C:/Users/eureq/Desktop/Фото",
+        "c:/Users/eureq/Desktop/Фото/**"
+    ],
+    "background.editorBackgrounds": [
+        "c:/Users/eureq/Desktop/Фото/**"
+    ],
+    "background.sidebarBackgrounds": [
+        "c:/Users/eureq/Desktop/Фото/**"
+    ],
+    "background.panelBackgrounds": [
+        "c:/Users/eureq/Desktop/Фото/**"
+    ],
+    "backgroundCover.opacity": 0.2,
+    "backgroundCover.randomImageFolder": "c:\\Users\\eureq\\Desktop\\Цукасочка",
+    "backgroundCover.imagePath": "c:\\Users\\eureq\\Desktop\\Цукасочка\\1179068.jpg",
+    "sync.gist": "788b4aed3e7c585277a2",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": true,
+    "settings-repository.repository": "https://github.com/RND332/RND332.git",
+}
