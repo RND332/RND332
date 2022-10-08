@@ -1,7 +1,17 @@
 [
     {
+        "identifier": "astro-build.astro-vscode",
+        "version": "0.27.0",
+        "enabled": false
+    },
+    {
         "identifier": "ChakrounAnas.turbo-console-log",
         "version": "2.5.1",
+        "enabled": true
+    },
+    {
+        "identifier": "dsznajder.es7-react-js-snippets",
+        "version": "4.4.3",
         "enabled": true
     },
     {
@@ -20,14 +30,34 @@
         "enabled": true
     },
     {
+        "identifier": "jock.svg",
+        "version": "1.4.20",
+        "enabled": true
+    },
+    {
         "identifier": "Katsute.settings-repository",
         "version": "1.0.1",
         "enabled": true
     },
     {
+        "identifier": "manasxx.background-cover",
+        "version": "2.3.0",
+        "enabled": true
+    },
+    {
+        "identifier": "mhutchie.git-graph",
+        "version": "1.30.0",
+        "enabled": true
+    },
+    {
+        "identifier": "mikestead.dotenv",
+        "version": "1.0.1",
+        "enabled": false
+    },
+    {
         "identifier": "ms-dotnettools.csharp",
         "version": "1.25.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
@@ -37,6 +67,31 @@
     {
         "identifier": "NomicFoundation.hardhat-solidity",
         "version": "0.5.5",
+        "enabled": true
+    },
+    {
+        "identifier": "redhat.vscode-yaml",
+        "version": "1.10.1",
+        "enabled": false
+    },
+    {
+        "identifier": "Shan.code-settings-sync",
+        "version": "3.4.3",
+        "enabled": true
+    },
+    {
+        "identifier": "tomoki1207.pdf",
+        "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "WakaTime.vscode-wakatime",
+        "version": "20.0.0",
+        "enabled": true
+    },
+    {
+        "identifier": "yzhang.markdown-all-in-one",
+        "version": "3.4.3",
         "enabled": true
     }
 ]
