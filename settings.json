@@ -143,4 +143,7 @@
     "sync.forceUpload": true,
     "sync.quietSync": true,
     "settings-repository.repository": "https://github.com/RND332/RND332.git",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }

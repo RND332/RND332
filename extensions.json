@@ -15,6 +15,11 @@
         "enabled": true
     },
     {
+        "identifier": "esbenp.prettier-vscode",
+        "version": "9.9.0",
+        "enabled": true
+    },
+    {
         "identifier": "GitHub.copilot",
         "version": "1.50.6974",
         "enabled": true
@@ -27,6 +32,11 @@
     {
         "identifier": "GitHub.vscode-pull-request-github",
         "version": "0.50.0",
+        "enabled": true
+    },
+    {
+        "identifier": "Jacano.vscode-pnpm",
+        "version": "0.0.3",
         "enabled": true
     },
     {
@@ -50,13 +60,18 @@
         "enabled": true
     },
     {
+        "identifier": "mike-co.import-sorter",
+        "version": "3.3.1",
+        "enabled": true
+    },
+    {
         "identifier": "mikestead.dotenv",
         "version": "1.0.1",
         "enabled": true
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
-        "version": "1.0.5733",
+        "version": "1.0.5735",
         "enabled": true
     },
     {
