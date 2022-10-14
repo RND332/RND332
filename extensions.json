@@ -21,7 +21,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.50.6974",
+        "version": "1.53.7011",
         "enabled": true
     },
     {
@@ -85,8 +85,23 @@
         "enabled": true
     },
     {
+        "identifier": "rust-lang.rust-analyzer",
+        "version": "0.3.1238",
+        "enabled": true
+    },
+    {
+        "identifier": "tauri-apps.tauri-vscode",
+        "version": "0.2.0",
+        "enabled": true
+    },
+    {
         "identifier": "tomoki1207.pdf",
         "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "vscode-icons-team.vscode-icons",
+        "version": "11.20.0",
         "enabled": true
     },
     {
