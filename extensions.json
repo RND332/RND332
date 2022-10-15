@@ -5,6 +5,11 @@
         "enabled": true
     },
     {
+        "identifier": "burkeholland.simple-react-snippets",
+        "version": "1.2.7",
+        "enabled": true
+    },
+    {
         "identifier": "ChakrounAnas.turbo-console-log",
         "version": "2.5.1",
         "enabled": true

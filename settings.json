@@ -12,7 +12,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "hardhat.telemetry": true,
     "github.copilot.enable": {
-        "*": true,
+        "*": false,
         "yaml": false,
         "plaintext": false,
         "markdown": true,
@@ -135,7 +135,7 @@
     ],
     "backgroundCover.opacity": 0.2,
     "backgroundCover.randomImageFolder": "c:\\Users\\eureq\\Desktop\\Цукасочка",
-    "backgroundCover.imagePath": "c:\\Users\\eureq\\Desktop\\Цукасочка\\1179068.jpg",
+    "backgroundCover.imagePath": "c:\\Users\\eureq\\Desktop\\Цукасочка\\Tonikawa-Hello.jpg",
     "sync.gist": "788b4aed3e7c585277a2",
     "sync.autoDownload": true,
     "sync.autoUpload": true,
