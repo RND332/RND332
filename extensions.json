@@ -11,7 +11,7 @@
     },
     {
         "identifier": "ChakrounAnas.turbo-console-log",
-        "version": "2.5.1",
+        "version": "2.5.4",
         "enabled": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
         "identifier": "jock.svg",
-        "version": "1.4.20",
+        "version": "1.4.22",
         "enabled": true
     },
     {
@@ -75,6 +75,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-vscode.powershell",
+        "version": "2022.8.5",
+        "enabled": true
+    },
+    {
         "identifier": "ms-vsliveshare.vsliveshare",
         "version": "1.0.5735",
         "enabled": true
@@ -91,7 +96,7 @@
     },
     {
         "identifier": "rust-lang.rust-analyzer",
-        "version": "0.3.1238",
+        "version": "0.3.1248",
         "enabled": true
     },
     {
@@ -106,7 +111,7 @@
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
-        "version": "11.20.0",
+        "version": "12.0.0",
         "enabled": true
     },
     {

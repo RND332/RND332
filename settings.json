@@ -51,7 +51,7 @@
     "svg.preview.mode": "svg",
     "redhat.telemetry.enabled": true,
     "workbench.colorTheme": "GitHub Dark High Contrast",
-    "terminal.integrated.fontFamily": "meslolgm nf",
+    "terminal.integrated.fontFamily": "monospace",
     "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "background.loop": true,
     "background.useDefault": false,
