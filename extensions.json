@@ -1,5 +1,10 @@
 [
     {
+        "identifier": "aaron-bond.better-comments",
+        "version": "3.0.2",
+        "enabled": true
+    },
+    {
         "identifier": "astro-build.astro-vscode",
         "version": "0.27.0",
         "enabled": true
@@ -11,7 +16,7 @@
     },
     {
         "identifier": "ChakrounAnas.turbo-console-log",
-        "version": "2.5.4",
+        "version": "2.5.6",
         "enabled": true
     },
     {
@@ -36,7 +41,7 @@
     },
     {
         "identifier": "GitHub.vscode-pull-request-github",
-        "version": "0.50.0",
+        "version": "0.52.0",
         "enabled": true
     },
     {
@@ -47,6 +52,11 @@
     {
         "identifier": "jock.svg",
         "version": "1.4.22",
+        "enabled": true
+    },
+    {
+        "identifier": "juanallo.vscode-dependency-cruiser",
+        "version": "0.0.1",
         "enabled": true
     },
     {
@@ -75,8 +85,8 @@
         "enabled": true
     },
     {
-        "identifier": "ms-vscode.powershell",
-        "version": "2022.8.5",
+        "identifier": "MS-CEINTL.vscode-language-pack-ru",
+        "version": "1.72.10120958",
         "enabled": true
     },
     {

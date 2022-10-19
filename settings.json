@@ -48,10 +48,10 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.stickyScroll.enabled": true,
-    "svg.preview.mode": "svg",
+    "svg.preview.mode": "img",
     "redhat.telemetry.enabled": true,
     "workbench.colorTheme": "GitHub Dark High Contrast",
-    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "MesloLGM NF",
     "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "background.loop": true,
     "background.useDefault": false,
@@ -147,4 +147,9 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "workbench.iconTheme": "vscode-icons",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Meslo LG M DZ for Powerline",
+    "terminal.explorerKind": "external",
 }
