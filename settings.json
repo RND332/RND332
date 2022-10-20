@@ -12,7 +12,7 @@
     "security.workspace.trust.untrustedFiles": "open",
     "hardhat.telemetry": true,
     "github.copilot.enable": {
-        "*": false,
+        "*": true,
         "yaml": false,
         "plaintext": false,
         "markdown": true,
@@ -150,6 +150,6 @@
     "[css]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.fontFamily": "Meslo LG M DZ for Powerline",
+    "editor.fontFamily": "Meslo LGM NF",
     "terminal.explorerKind": "external",
 }

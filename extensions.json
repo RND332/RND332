@@ -31,7 +31,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.53.7011",
+        "version": "1.54.7077",
         "enabled": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
-        "version": "1.0.5735",
+        "version": "1.0.5739",
         "enabled": true
     },
     {
