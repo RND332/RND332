@@ -127,7 +127,7 @@
     {
         "identifier": "Tyriar.sort-lines",
         "version": "1.9.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ue.alphabetical-sorter",
