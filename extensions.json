@@ -5,8 +5,13 @@
         "enabled": true
     },
     {
+        "identifier": "amatiasq.sort-imports",
+        "version": "6.3.1",
+        "enabled": true
+    },
+    {
         "identifier": "astro-build.astro-vscode",
-        "version": "0.27.0",
+        "version": "0.28.1",
         "enabled": true
     },
     {
@@ -117,6 +122,11 @@
     {
         "identifier": "tomoki1207.pdf",
         "version": "1.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ue.alphabetical-sorter",
+        "version": "2.0.1",
         "enabled": true
     },
     {
