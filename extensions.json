@@ -7,7 +7,7 @@
     {
         "identifier": "amatiasq.sort-imports",
         "version": "6.3.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "astro-build.astro-vscode",
@@ -82,7 +82,7 @@
     {
         "identifier": "mike-co.import-sorter",
         "version": "3.3.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mikestead.dotenv",
@@ -132,7 +132,7 @@
     {
         "identifier": "ue.alphabetical-sorter",
         "version": "2.0.1",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
