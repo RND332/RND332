@@ -95,6 +95,41 @@
         "enabled": true
     },
     {
+        "identifier": "ms-python.python",
+        "version": "2022.16.1",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-python.vscode-pylance",
+        "version": "2022.10.30",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.jupyter",
+        "version": "2022.9.1202862440",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.jupyter-keymap",
+        "version": "1.0.0",
+        "enabled": false
+    },
+    {
+        "identifier": "ms-toolsai.jupyter-renderers",
+        "version": "1.0.10",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
+        "version": "0.1.6",
+        "enabled": false
+    },
+    {
+        "identifier": "ms-toolsai.vscode-jupyter-slideshow",
+        "version": "0.1.5",
+        "enabled": true
+    },
+    {
         "identifier": "ms-vsliveshare.vsliveshare",
         "version": "1.0.5739",
         "enabled": true
