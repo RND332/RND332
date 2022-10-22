@@ -112,7 +112,7 @@
     {
         "identifier": "ms-toolsai.jupyter-keymap",
         "version": "1.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
@@ -122,7 +122,7 @@
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
         "version": "0.1.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-slideshow",
