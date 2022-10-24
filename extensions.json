@@ -36,7 +36,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.54.7077",
+        "version": "1.55.7117",
         "enabled": true
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "identifier": "rust-lang.rust-analyzer",
-        "version": "0.3.1248",
+        "version": "0.3.1258",
         "enabled": true
     },
     {
