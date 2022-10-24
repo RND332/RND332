@@ -152,4 +152,5 @@
     },
     "editor.fontFamily": "Meslo LGM NF",
     "terminal.explorerKind": "external",
+    "vsicons.dontShowNewVersionMessage": true,
 }
