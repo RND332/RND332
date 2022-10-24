@@ -95,6 +95,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-dotnettools.csharp",
+        "version": "1.25.0",
+        "enabled": true
+    },
+    {
         "identifier": "ms-python.python",
         "version": "2022.16.1",
         "enabled": true
@@ -171,7 +176,7 @@
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
-        "version": "12.0.0",
+        "version": "12.0.1",
         "enabled": true
     },
     {
