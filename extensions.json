@@ -160,6 +160,11 @@
         "enabled": true
     },
     {
+        "identifier": "spencer-farley.xunitsnippets",
+        "version": "1.0.0",
+        "enabled": true
+    },
+    {
         "identifier": "tauri-apps.tauri-vscode",
         "version": "0.2.1",
         "enabled": true
