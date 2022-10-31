@@ -1,10 +1,5 @@
 [
     {
-        "identifier": "astro-build.astro-vscode",
-        "version": "0.28.2",
-        "enabled": true
-    },
-    {
         "identifier": "aaron-bond.better-comments",
         "version": "3.0.2",
         "enabled": true
@@ -12,6 +7,11 @@
     {
         "identifier": "amatiasq.sort-imports",
         "version": "6.3.1",
+        "enabled": true
+    },
+    {
+        "identifier": "astro-build.astro-vscode",
+        "version": "0.28.2",
         "enabled": true
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "identifier": "rust-lang.rust-analyzer",
-        "version": "0.3.1258",
+        "version": "0.3.1266",
         "enabled": true
     },
     {
