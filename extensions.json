@@ -46,7 +46,7 @@
     },
     {
         "identifier": "GitHub.vscode-pull-request-github",
-        "version": "0.52.0",
+        "version": "0.54.0",
         "enabled": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "identifier": "MS-CEINTL.vscode-language-pack-ru",
-        "version": "1.72.10120958",
+        "version": "1.73.11020950",
         "enabled": true
     },
     {
@@ -100,8 +100,13 @@
         "enabled": true
     },
     {
+        "identifier": "ms-python.isort",
+        "version": "2022.4.0",
+        "enabled": true
+    },
+    {
         "identifier": "ms-python.python",
-        "version": "2022.16.1",
+        "version": "2022.18.0",
         "enabled": true
     },
     {
@@ -121,7 +126,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
-        "version": "1.0.10",
+        "version": "1.0.12",
         "enabled": true
     },
     {
