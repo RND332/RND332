@@ -156,5 +156,5 @@
     "[csharp]": {
         "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
     },
-    "window.zoomLevel": 1,
+    "window.zoomLevel": -1,
 }
