@@ -36,7 +36,7 @@
     },
     {
         "identifier": "GitHub.copilot",
-        "version": "1.57.7193",
+        "version": "1.58.7236",
         "enabled": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
         "identifier": "rust-lang.rust-analyzer",
-        "version": "0.3.1266",
+        "version": "0.3.1277",
         "enabled": true
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "identifier": "WakaTime.vscode-wakatime",
-        "version": "21.0.0",
+        "version": "21.0.1",
         "enabled": true
     },
     {
