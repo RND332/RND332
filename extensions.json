@@ -35,6 +35,11 @@
         "enabled": true
     },
     {
+        "identifier": "formulahendry.dotnet-test-explorer",
+        "version": "0.7.8",
+        "enabled": true
+    },
+    {
         "identifier": "GitHub.copilot",
         "version": "1.58.7236",
         "enabled": true
@@ -47,6 +52,11 @@
     {
         "identifier": "GitHub.vscode-pull-request-github",
         "version": "0.54.0",
+        "enabled": true
+    },
+    {
+        "identifier": "hbenl.vscode-test-explorer",
+        "version": "2.21.1",
         "enabled": true
     },
     {
@@ -140,6 +150,11 @@
         "enabled": true
     },
     {
+        "identifier": "ms-vscode.test-adapter-converter",
+        "version": "0.1.6",
+        "enabled": true
+    },
+    {
         "identifier": "ms-vsliveshare.vsliveshare",
         "version": "1.0.5762",
         "enabled": true
@@ -167,7 +182,7 @@
     {
         "identifier": "spencer-farley.xunitsnippets",
         "version": "1.0.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "tauri-apps.tauri-vscode",
