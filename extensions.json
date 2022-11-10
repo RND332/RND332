@@ -91,27 +91,27 @@
     },
     {
         "identifier": "MS-CEINTL.vscode-language-pack-ru",
-        "version": "1.73.11020950",
+        "version": "1.73.11090923",
         "enabled": true
     },
     {
         "identifier": "ms-dotnettools.csharp",
-        "version": "1.25.0",
+        "version": "1.25.2",
         "enabled": true
     },
     {
         "identifier": "ms-python.isort",
-        "version": "2022.4.0",
+        "version": "2022.6.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.python",
-        "version": "2022.18.1",
+        "version": "2022.18.2",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2022.11.10",
+        "version": "2022.11.20",
         "enabled": true
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "identifier": "WakaTime.vscode-wakatime",
-        "version": "21.0.1",
+        "version": "22.0.0",
         "enabled": true
     },
     {
