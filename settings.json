@@ -52,7 +52,7 @@
     "redhat.telemetry.enabled": true,
     "workbench.colorTheme": "GitHub Dark High Contrast",
     "terminal.integrated.fontFamily": "MesloLGM NF",
-    "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.external.windowsExec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.15.2875.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
     "background.loop": true,
     "background.useDefault": false,
     "background.customImages": [
@@ -157,4 +157,9 @@
         "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
     },
     "window.zoomLevel": -1,
+    "editor.renderWhitespace": "boundary",
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.env.windows": {
+    
+    },
 }
