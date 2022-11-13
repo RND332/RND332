@@ -35,6 +35,11 @@
         "enabled": true
     },
     {
+        "identifier": "GitHub.codespaces",
+        "version": "1.13.1",
+        "enabled": true
+    },
+    {
         "identifier": "GitHub.copilot",
         "version": "1.58.7236",
         "enabled": true
