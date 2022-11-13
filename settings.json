@@ -156,7 +156,6 @@
     "[csharp]": {
         "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
     },
-    "window.zoomLevel": -1,
     "editor.renderWhitespace": "boundary",
     "files.autoSave": "onFocusChange",
     "terminal.integrated.env.windows": {
