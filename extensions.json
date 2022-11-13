@@ -37,7 +37,7 @@
     {
         "identifier": "formulahendry.dotnet-test-explorer",
         "version": "0.7.8",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "GitHub.copilot",
