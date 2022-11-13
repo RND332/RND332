@@ -35,11 +35,6 @@
         "enabled": true
     },
     {
-        "identifier": "formulahendry.dotnet-test-explorer",
-        "version": "0.7.8",
-        "enabled": false
-    },
-    {
         "identifier": "GitHub.copilot",
         "version": "1.58.7236",
         "enabled": true
@@ -53,11 +48,6 @@
         "identifier": "GitHub.vscode-pull-request-github",
         "version": "0.54.0",
         "enabled": true
-    },
-    {
-        "identifier": "hbenl.vscode-test-explorer",
-        "version": "2.21.1",
-        "enabled": false
     },
     {
         "identifier": "Jacano.vscode-pnpm",
@@ -107,7 +97,7 @@
     {
         "identifier": "MS-CEINTL.vscode-language-pack-ru",
         "version": "1.73.11090923",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-dotnettools.csharp",
