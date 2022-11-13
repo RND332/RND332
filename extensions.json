@@ -95,11 +95,6 @@
         "enabled": true
     },
     {
-        "identifier": "MS-CEINTL.vscode-language-pack-ru",
-        "version": "1.73.11090923",
-        "enabled": false
-    },
-    {
         "identifier": "ms-dotnettools.csharp",
         "version": "1.25.2",
         "enabled": true
