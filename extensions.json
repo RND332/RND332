@@ -7,12 +7,12 @@
     {
         "identifier": "amatiasq.sort-imports",
         "version": "6.3.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "astro-build.astro-vscode",
         "version": "0.28.2",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "burkeholland.simple-react-snippets",
@@ -22,7 +22,7 @@
     {
         "identifier": "ChakrounAnas.turbo-console-log",
         "version": "2.5.6",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "dsznajder.es7-react-js-snippets",
@@ -72,7 +72,7 @@
     {
         "identifier": "juanallo.vscode-dependency-cruiser",
         "version": "0.0.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "Katsute.settings-repository",
@@ -92,7 +92,7 @@
     {
         "identifier": "mike-co.import-sorter",
         "version": "3.3.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "mikestead.dotenv",
@@ -147,7 +147,7 @@
     {
         "identifier": "ms-vscode.test-adapter-converter",
         "version": "0.1.6",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ms-vsliveshare.vsliveshare",
@@ -172,7 +172,7 @@
     {
         "identifier": "spencer-farley.xunitsnippets",
         "version": "1.0.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "tauri-apps.tauri-vscode",
@@ -182,17 +182,17 @@
     {
         "identifier": "tomoki1207.pdf",
         "version": "1.2.0",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "Tyriar.sort-lines",
         "version": "1.9.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "ue.alphabetical-sorter",
         "version": "2.0.1",
-        "enabled": true
+        "enabled": false
     },
     {
         "identifier": "vscode-icons-team.vscode-icons",
