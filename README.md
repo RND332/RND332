@@ -45,14 +45,19 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
     - Solidity 
     - hardhat
     - chai
+  - Desktop c# **Junior**
+    - MAUI
+    - UNO Platform
 - Research
   - Mathematical model
   - MacroEconomics
 - DevOps
   - Terraform
+  - Github actions
 - Economy
   - [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
   - Game theory
+
 ## 💞️ I’m looking to collaborate on ...
    - Crypto Project
      - DeFi projects, focused on creating fundamentally new markets
@@ -63,7 +68,13 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
    - Self-hosted Apps
      - E2E, P2P
      - Distributed git, social network, video calls <p>(if you want to make distributed analog of something PM me)</p>
-
- ## How to reach me:
-  - [Telegram](https://t.me/rnd332)
-  - [Twitter](https://twitter.com/RND1707)
+   - Desktop Apps
+     - MAUI
+     - UNO Platform 
+## 📝 Research when I'm not work on anything: 
+ - [ ] Android Testing Framework
+ - [ ] Cairo, contract lang
+ 
+## How to reach me:
+ - [Telegram](https://t.me/rnd332)
+ - [Twitter](https://twitter.com/RND1707)
