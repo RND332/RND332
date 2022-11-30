@@ -74,6 +74,7 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
 ## 📝 Research when I'm not work on anything: 
  - [ ] Android Testing Framework
  - [ ] Cairo, contract lang
+ - [ ] C# Auto-mappers
  
 ## How to reach me:
  - [Telegram](https://t.me/rnd332)
