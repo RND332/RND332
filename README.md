@@ -31,9 +31,11 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
 <p>Any things related to web3, smart contracts, economics, and decentralization are of interest to me.</p>
 <p>So this list changes frequently.</p>
 
-- Code
+- Code 
   - Core
     - git flow
+  - DB
+    - Redis 
   - Frontend **Middle**
     - TypeScript
     - React
