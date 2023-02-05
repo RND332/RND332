@@ -50,6 +50,9 @@ The fear of **poverty**, **surveillance** and **control** by the state and corpo
   - Desktop c# **Junior**
     - MAUI
     - UNO Platform
+    - WPF
+    - ScottPlot
+    - ADO.NET
 - Research
   - Mathematical model
   - MacroEconomics
