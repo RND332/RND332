@@ -1,86 +1,41 @@
-# Hi, I’m @RND332 👁
-<p>Shizo, programmer, gamer, and a lot of other things.</p>
-<p>Favorite character in APEX, Bloodhound.</p>
+# Talgat Minigaliev
 
-The fear of **poverty**, **surveillance** and **control** by the state and corporations, force me to develop decentralized blockchain solutions for economic problems, and decentralized and protected information exchange to solve privacy problems.
+Frontend Developer | Web3 & DeFi Integration | High-Performance Architecture
 
-## Favorite Anime
-| Name | Genre | My Rating |
-| --- | --- | --- |
-| [Made in Abyss](https://shikimori.one/animes/41084-made-in-abyss-retsujitsu-no-ougonkyou) | Adventure, Drama, Fantasy, Mystery, Psychological, Seinen | 10 |
-| [Yofukashi no Uta](https://shikimori.one/animes/50346-yofukashi-no-uta) | Senen, Romance, Supernatural, Vampires | 10 |
-| [Isekai Ojisan](https://shikimori.one/animes/49220-isekai-ojisan) | Comedy, Fantasy | 10 |
+## Professional Summary
+Frontend Developer with strong expertise in building scalable, high-performance applications and modernizing complex systems. Experienced in Web3 and DeFi integrations, technical decision-making, and performance optimization. Skilled in leading frontend architecture, improving developer workflows, and delivering reliable user experiences across platforms.
 
-## 👀 I’m interested in ...
- - Distributed systems: computing, storage, rendering, machine learning, data transmission. 
- - Anti-fraud bypass: emulation, data hiding, scraping data from social networks to train humanoid AI. 
- - AI training of artificial intelligence to attack the socio-political system. (PM if you are a cyber terrorist)
- - Creation of private overlay networks for the transmission of encrypted data that cannot be intercepted and decrypted e.g [nebula](https://github.com/slackhq/nebula) 
- - MetaDAO, a system for decentralizing power in DeFi/GameFi projects
- - ZNAK, a financial instrument with the stability of a stablecoin, and the profitability of bitcoin
- - Multi Social Network, a service for synchronizing all social networks with the possibility of backup in a decetalized network. To take away from corporations the right to delete information
- - <p>Decentralized alternatives for Everything, some examples:</p>
-| Name | Git | Alternartive to |
-| --- | --- | --- |
-| Keet | ❌ | Meet |
-| Radicle | [Yes](https://github.com/radicle-dev/radicle-cli) | GitHub |
-| Nitter | [Yes](https://github.com/zedeus/nitter) | Twitter |
+## Core Competencies
+- Frontend Development: React 18, Next.js, TypeScript, Tailwind CSS, Radix UI, shadcn/ui  
+- State & Data Management: MobX, TanStack Query, TanStack Router, SWR  
+- Web3 & Blockchain: Solana Wallet Adapter, Wagmi, Viem, ConnectKit, WalletConnect, Anchor framework  
+- Build & Tooling: Vite + SWC, Git (rebase workflows), automated build optimization  
+- Key Expertise: Responsive design, cross-chain integrations, performance tuning, modernization of legacy systems  
 
+## Professional Experience
 
-## 🌱 I’m currently learning ...
-<p>Any things related to web3, smart contracts, economics, and decentralization are of interest to me.</p>
-<p>So this list changes frequently.</p>
+### Cytonic — Lead Frontend Developer  
+*09/2023 – 08/2025*  
+- Defined architecture for cross-chain DeFi applications (Solana + Ethereum).  
+- Reduced build times from 45s to 3s through tooling optimization.  
+- Integrated 15+ wallets and 50+ tokens with secure and scalable transfer mechanisms.  
+- Improved code stability and maintainability, reducing bugs by 70%.  
+- Implemented responsive design systems, improving mobile user conversions.  
 
-- Code 
-  - Core
-    - git flow
-  - DB
-    - Redis 
-  - Frontend **Middle**
-    - TypeScript
-    - React
-    - Next
-    - MobX
-    - Redux
-    - MUI
-  - Smart Contract **Junior**
-    - Solidity 
-    - hardhat
-    - chai
-  - Desktop c# **Junior**
-    - MAUI
-    - UNO Platform
-    - WPF
-    - ScottPlot
-    - ADO.NET
-- Research
-  - Mathematical model
-  - MacroEconomics
-- DevOps
-  - Terraform
-  - Github actions
-- Economy
-  - [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design)
-  - Game theory
+### Arcanum — Frontend Developer  
+*04/2021 – 03/2023*  
+- Migrated legacy JavaScript to TypeScript, reducing critical errors by 70%.  
+- Enhanced application performance with 60% faster page loads.  
+- Delivered scalable UIs using React and Tailwind CSS.  
+- Implemented multi-wallet onboarding and blockchain transaction handling.  
+- Established code review standards, mentored junior developers, and supported modernization projects.  
 
-## 💞️ I’m looking to collaborate on ...
-   - Crypto Project
-     - DeFi projects, focused on creating fundamentally new markets
-     - GameFi, solve the problems of weak tokenomics
-     - NFT projects, which can increase the efficiency of capital, and not just speculate with marketing
-     - Privacy projects, create methods to circumvent the privacy restrictions imposed by the blockchain
-     - Infrastructure projects, solve the problems of repetition of stored data
-   - Self-hosted Apps
-     - E2E, P2P
-     - Distributed git, social network, video calls <p>(if you want to make distributed analog of something PM me)</p>
-   - Desktop Apps
-     - MAUI
-     - UNO Platform 
-## 📝 Research when I'm not work on anything: 
- - [ ] Android Testing Framework
- - [ ] Cairo, contract lang
- - [ ] C# Auto-mappers
- 
-## How to reach me:
- - [Telegram](https://t.me/rnd332)
- - [Twitter](https://twitter.com/RND1707)
+### GTON — Frontend Developer  
+*09/2021 – 11/2022, Dubai*  
+- Delivered responsive, production-ready applications on schedule.  
+- Ensured optimal cross-device performance through mobile-first development.  
+
+## Contact
+- Email: [rnd332@proton.me](mailto:rnd332@proton.me)  
+- GitHub: [github.com/RND332](https://github.com/RND332)  
+- Telegram: [@rnd332](https://t.me/rnd332)  
