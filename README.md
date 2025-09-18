@@ -37,5 +37,4 @@ Frontend Developer with strong expertise in building scalable, high-performance 
 
 ## Contact
 - Email: [rnd332@proton.me](mailto:rnd332@proton.me)  
-- GitHub: [github.com/RND332](https://github.com/RND332)  
 - Telegram: [@rnd332](https://t.me/rnd332)  
